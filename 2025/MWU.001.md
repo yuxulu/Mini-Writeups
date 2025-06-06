@@ -21,6 +21,6 @@ https://cdn.discordapp.com/attachments/1129482676085194762/1380317000253050930/c
 7. Located the exact mural as described in the challenge.
 8. Utilized RIS (Google) of the mural to locate the individuals name.
 9. Searched for the full name of the individual.
-10. Submitted flag.
+10. Submitted flag -- 247GEO{Francis_Lazarro_Rizzo}
 ------------------------------------------------------------------------
 *Challenge made by 'byte' in Hacktoria Discord server.*
