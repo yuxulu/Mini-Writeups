@@ -13,8 +13,8 @@ https://cdn.discordapp.com/attachments/1129482676085194762/1380317000253050930/c
 ------------------------------------------------------------------------
 ## Steps to flag:
 1. Utilized RIS (Google) to locate the city by focusing on the visible baseball field and the large church.
-2. Found a **potential** city match of Philadelphia, USA.
-3. Looked around satellite imagry of the nearby coordindates found from step 1.
+2. Found a potential city match of Philadelphia, USA.
+3. Looked around satellite imagery of the nearby coordindates found from step 1.
 4. Located the exact same baseball field and church.
 5. Looked at all parking lots within 100m of church as the challenge called for.
 6. Utilized streetview (GMaps) to locate the mural.
